@@ -39,7 +39,7 @@ const App = () => {
   return (
     <div className="app">
     <header className="app__header">
-    Ты сегодня покормил кота?
+    Ты сегодня покормил кота?А?
     </header>
     <ItemList
     cards={initialState.cards}
